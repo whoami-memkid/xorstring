@@ -16,9 +16,13 @@ the stack.
 
 
 Text   : /bin/sh
+
 Key    : 16
+
 String : \x2f\x62\x69\x6e\x2f\x73\x68
+
 Encoded: \x3f\x72\x79\x7e\x3f\x63\x78
+
 Chars  : ?ry~?cx
 
 
