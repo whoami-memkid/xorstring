@@ -26,6 +26,9 @@ Encoded: \x3f\x72\x79\x7e\x3f\x63\x78
 Chars  : ?ry~?cx
 
 
+
+# output lines
+
 Text: is the string you pass after -s, -S
 
 Key: is the int you pass after -k, -K
