@@ -1,4 +1,4 @@
-#xorstring
+# xorstring
 
 
 Script for xoring a whole string using an int
@@ -9,7 +9,7 @@ characters in a string that you want to push to
 
 the stack.
 
-#usage
+# usage
 
 
 ./xorstring.py -s "/bin/sh" -k 16
